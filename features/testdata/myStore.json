@@ -1,0 +1,22 @@
+{
+    "firstName": "SONAL",
+    "lastName": "DHAR",
+    "password": "SUPERSAIYAJIN",
+    "DOB": {
+        "day": "24",
+        "month": "11",
+        "year": "1997"
+    },
+    "Address": {
+        "addressFirstName": "SONAL",
+        "addressLastName": "DHAR",
+        "company": "Capgemini",
+        "address": "Far From Home",
+        "city": "california",
+        "state": "1",
+        "zipcode": "00000",
+        "country": "United States",
+        "mobileNumber": "7980158137",
+        "aliasAddress": "Homecoming"
+    }
+}

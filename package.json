@@ -15,9 +15,7 @@
     },
     "scripts": {
         "wdio": "wdio run wdio.conf.ts",
-        "test": "npx wdio run ./wdio.conf.ts",
-        "uninstallcf": "npm uninstall @wdio/cucumber-framework",
-        "installcf": "npm install --save-dev @wdio/cucumber-framework@7.14.1"
+        "test": "npx wdio run ./wdio.conf.ts"
     },
     "dependencies": {
         "@wdio/cucumber-framework": "^7.14.1",
